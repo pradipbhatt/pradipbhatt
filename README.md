@@ -1,4 +1,4 @@
-https://cdn.dribbble.com/users/1454245/screenshots/5738909/media/227b62ed1ba1e3ac9faf44156c92f195.jpg?compress=1&resize=400x300
+![masterhead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)]
 <h1 align="center">Hi 👋, I'm Pradip Bhatt</h1>
 <h3 align="center">A passionate frontend developer from Far western Region,Nepal.</h3>
 
