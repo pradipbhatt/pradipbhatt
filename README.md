@@ -1,4 +1,5 @@
 ![masterhead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)]
+
 <h1 align="center">Hi 👋, I'm Pradip Bhatt</h1>
 <h3 align="center">A passionate frontend developer from Far western Region,Nepal.</h3>
 
@@ -19,6 +20,7 @@
 - 📫 How to reach me **bhattsammar04@gmail.com**
 
 - ⚡ Fun fact **T think,I am not funny😉😎**
+- ![Activity](https://activity-graph.herokuapp.com/graph?username=pradipbhatt&&theme=xcode)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -69,6 +71,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradipbhatt&show_icons=true&locale=en&layout=compact" alt="pradipbhatt" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradipbhatt&show_icons=true&locale=en" alt="pradipbhatt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradipbhatt&" alt="pradipbhatt" /></p>
+
