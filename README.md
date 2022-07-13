@@ -1,4 +1,4 @@
-![masterhead](https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/629f38b64b229b67b36cc297_giphy%20(16).gif)]
+![masterhead](https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/629f38b64b229b67b36cc297_giphy%20(16).gif)
 
 <h1 align="center">Hi 👋, I'm Pradip Bhatt</h1>
 <h3 align="center">A passionate frontend developer from Far western Region,Nepal.</h3>
