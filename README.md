@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pradipbhatt.github.io/third_page-template/](https://pradipbhatt.github.io/third_page-template/)
 
-- 💬 Ask me about **Webites,Front_end,OOP,POP.**
+- 💬 Ask me about **Websites,Front_end,OOP,POP.**
 
 - 📫 How to reach me **bhattsammar04@gmail.com**
 
