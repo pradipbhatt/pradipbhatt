@@ -28,6 +28,10 @@
 <a href="https://linkedin.com/in/pradip bhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradip bhatt" height="30" width="40" /></a>
 <a href="https://fb.com/pradip bhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradip bhatt" height="30" width="40" /></a>
 <a href="https://instagram.com/pradip bhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradip bhatt" height="30" width="40" /></a>
+
+<a href="https://dev.to/pradipbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkja![devlogo-pwa-512](https://user-images.githubusercontent.com/84025490/178644686-7fafca85-db64-4e47-b912-e9313c82e14b.png)
+in/github-profile-readme-generator/master/src/images/icons/Social/" alt="pradip bhatt" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
