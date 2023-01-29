@@ -1,4 +1,4 @@
-![masterhead](https://media1.giphy.com/media/OznPwZTZVYMT9XMPC7/giphy.gif?cid=ecf05e47tap2nrg1m74fi0352zy195x3z8hav31p50ftm5uu&rid=giphy.gif&ct=g)
+![masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a9bcf848792119.58a2322602139.gif)
 
 <h1 align="center">Hi 👋, I'm Pradip Bhatt</h1>
 <h3 align="center">A passionate Computer Enginnering Student from Far western Region,Nepal.</h3>
