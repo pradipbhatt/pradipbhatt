@@ -1,4 +1,4 @@
-  ![masterhead](https://media.tenor.com/PJ4-hzHhDyEAAAAC/hi-hey.gif)
+ ![masterhead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
 
 <h1 align="center">Hi 👋, I'm Pradip Bhatt</h1>
 <h3 align="center">A passionate Computer Enginnering Student from Far western Region,Nepal.</h3>
@@ -9,18 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/pradipbhatt1326" target="blank"><img src="https://img.shields.io/twitter/follow/pradipbhatt1326?logo=twitter&style=for-the-badge" alt="pradipbhatt1326" /></a> </p>
 
-- 🔭 I’m currently working on [SOES](https://soes.netlify.app)
+- 🔭 I’m currently working on [Js](https://pradipbhatt.com.np)
 
 - 🌱 I’m currently learning **OOP**
 
 - 👨‍💻 All of my projects are available at [Github](https://pradipbhatt.github.io/third_page-template/)
 
-- 💬 Ask me about **Websites,Front_end,OOP,POP.**
+- 💬 Ask me about **Websites,C programming ,C++ , Html ,CSS , JS , Python*
 
 - 📫 How to reach me **bhattsammar04@gmail.com**
 
 - ⚡ Fun fact **I think,I am not funny😉😎**
-- ![Activity](https://activity-graph.herokuapp.com/graph?username=pradipbhatt&&theme=xcode)
 
 
     <h3 align="left">Connect with me:</h3>
