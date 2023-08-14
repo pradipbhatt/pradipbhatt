@@ -1,7 +1,7 @@
  ![masterhead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
 
 <h1 align="center">Hi 👋, I'm Pradip Bhatt</h1>
-<h3 align="center">A passionate Computer Enginnering Student from Far western Region,Nepal.</h3>
+<h3 align="center">A passionate Computer Engineering Student from Far Western Region, Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradipbhatt&label=Profile%20views&color=0e75b6&style=flat" alt="pradipbhatt" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **bhattsammar04@gmail.com**
 
-- ⚡ Fun fact **I think,I am not funny😉😎**
+- ⚡ Fun fact **I think, I am not funny😉😎**
 
 
     <h3 align="left">Connect with me:</h3>
