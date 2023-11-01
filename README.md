@@ -1,5 +1,5 @@
-![masterhead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
 
+<img style="width:1000px;" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <h1 align="center">Hi 👋, I'm Pradip Bhatt</h1>
 <h3 align="center">A passionate frontend developer from Far Western Region (Nepal)</h3>
 
