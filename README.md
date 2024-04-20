@@ -3,7 +3,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/pradipbhatt">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/pradipbhatt"></p>
 <div align="center">
-<img src="id.png" /> 
+<!-- <img src="id.png" />  -->
 </br>
 </div>
 
@@ -26,17 +26,17 @@
 
  <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
 
-- 🔭 I’m currently work on **Connect-MinorCollege-Project**
+- 🔭 I’m currently working on **Connect-MinorCollege-Project**
 
 - 🌱 Proficient in front-end technologies like React as well as back-end technologies like Node.js, Python, and PHP.
 
-- 👨‍💻 All of my projects are available at www.pradipbhatt.com.np
+- 👨‍💻 All of my projects are available at [www.pradipbhatt.com.np](www.pradipbhatt.com.np)
 
 - 💬 Ask me about **HTML, CSS, Javascript, PHP & Python**
 
 - 📫 How to reach me **pradipbhatt.com.np**
 
-- ⚡ Fun fact **I am always serious😄😄😄**
+- ⚡ Fun fact **Nothing <<<😄😄😄**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
@@ -64,7 +64,7 @@ I dedicate my free time to working on back-end web development projects and watc
 
 ### What are your projects?
 
-I mostly work on projects which are availble on my github account.
+I mostly work on projects which are available on my [GitHub account](https://github.com/pradipbhatt?tab=repositories).
 
 You can check my repositories [here](https://github.com/pradipbhatt?tab=repositories).
 
