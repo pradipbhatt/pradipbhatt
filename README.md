@@ -80,7 +80,7 @@ If you're looking to join forces on a project or have an idea you'd like to disc
 
 <h2 align="center">Connect With Me:</h2>
 <p align="center">
-<a href="https://linkedin.com/in/pradipbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradipbhatt" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/pradipbhatt1326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradipbhatt" height="40" width="50" /></a>
 <a href="https://fb.com/pradipbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradipbhatt" height="40" width="50" /></a>
 <a href="https://instagram.com/pradipbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradipbhatt" height="40" width="50" /></a>
 <a href="https://github.com/pradipbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pradipbhatt" height="40" width="50" /></a>
