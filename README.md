@@ -1,3 +1,4 @@
+[![An image of @pradipbhatt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pradipbhatt)](https://holopin.io/@pradipbhatt)
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=pradipbhatt&label=Profile%20views&color=0e75b6&style=flat" alt="pradipbhatt"/> 
@@ -115,83 +116,27 @@ If you're looking to join forces on a project or have an idea you'd like to disc
                 <br>Git
             </td>
             <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/>
-                <br>HTML5
+                <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/>
+                <br>HTML
             </td>
             <td align="center" width="80">
                 <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/>
                 <br>CSS
             </td>
             <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/>
-                <br>Bootstrap
-            </td>
-            <td align="center" width="80">
                 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
                 <br>Tailwind
             </td>
             <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery"/>
-                <br>jQuery
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
-                <br>MongoDB
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs"/>
-                <br>Nodejs
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/>
-                <br>PHP
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode"/>
-                <br>VsCode
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass"/>
-                <br>Sass
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET"/>
-                <br>.NET
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
-                <br>Express
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular"/>
-                <br>Angular
+                <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS"/>
+                <br>NodeJS
             </td>
         </tr>
     </table>
 </div>
 
-<p align="center">
-    <a href="https://github.com/pradipbhatt?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=pradipbhatt&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="100%" alt="@pradipbhatt's github-readme-stats"/></a>
-</p>
+### 🔝 Most Used Languages:
 
 <p align="center">
-    <a href="https://github.com/pradipbhatt?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=pradipbhatt&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="@pradipbhatt's github-readme-streak-stats"/></a>
-</p>
-
-<p align="center">
-    <a href="https://wakatime.com/@pradipbhatt">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradipbhatt&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
-    </a>
-</p>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipbhatt&layout=compact&theme=rose_pine" alt="Top Langs" width="100%"/>
-</div>
-
-<p align="center">
-    <img src="contributions.svg" alt="Contributions"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pradipbhatt&show_icons=true&locale=en&layout=compact" alt="pradipbhatt"/>
 </p>
