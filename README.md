@@ -248,7 +248,6 @@ If you're interested in teaming up on a project or have an idea you'd like to di
 
 [![An image of @pradipbhatt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pradipbhatt)](https://holopin.io/@pradipbhatt)
 
-
 <p align="center">
     <em>🏆 <strong>Achievements & Trophies</strong> of <strong>Pradip Bhatt</strong></em>
 </p>
