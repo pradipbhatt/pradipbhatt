@@ -58,34 +58,15 @@ $ echo "What's a fun fact about you?"
 </div>
 
 ### 🌟 Who Am I?
+Hi, I'm **Pradip Bhatt**, a Computer Engineering student at **Far Western University** with a passion for coding and technology. As a tech leader, I’ve dived deep into:
 
-Hello! It's me, **Pradip Bhatt**, <br>
-A passionate Computer Engineering student at **Far Western University**. 💻✨ <br>
-I thrive on challenges and have a keen interest in coding and exploring new technologies.
+- **JavaScript** | **React** | **Node.js** | **Express**
+- **GSAP** | **Framer Motion** | **Tailwind** | **Vite**
 
-As a tech leader in my faculty, I constantly dive into various programming languages, becoming proficient in:
+I've completed projects like a **Database Management System**, **Home Automation** with Arduino, and am building an **Online Platform** for mock tests.<br> I recently finished the **Vidhyalayaa app** for comparing nearby +2 schools.
 
-- **JavaScript** 
-- **React**
-- **Node.js**
-- **Express**
-- **GSAP**
-- **Framer Motion**
-- **Tailwind**
-- **Vite**
-
-During my academic journey, I’ve successfully completed numerous projects for engineering societies. Here are a few highlights:
-
-- Developed a **Database Management System** in my second semester.
-- Created an **Automation Home Project** using Arduino in my fourth semester.
-- Currently contributing to an **Online Platform** for engineering students to take mock tests and track their progress.
-- Excited to work on the **Vidhyalayaa app**, which will help users compare nearby +2 schools in Mahendragar. 🏫📊
-
-My passion for coding and technology fuels my continuous growth and willingness to embrace new challenges. I’m confident in my ability to contribute effectively to any team and excel in dynamic, collaborative environments. 🤝🚀
-
-I look forward to the opportunities that lie ahead and am eager to connect with like-minded individuals in the industry. Let’s connect and explore new possibilities together! 🌍💬
-
-**Current Role:** President @ ICEC-FWU | BE Computer Engineering 
+Currently, I serve as **President @ ICEC-FWU**.<br>
+ Let's connect and create something amazing!
 
 ---
 
