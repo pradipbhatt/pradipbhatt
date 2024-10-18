@@ -23,7 +23,7 @@
 </div>
 
 <div align="center"> <!-- Changed from right to center -->
-    <img alt="coding" width="500px" src="./pradip.avif"/>
+    <img alt="coding" width="100%" src="./pradip.avif"/>
 </div>
 
 
