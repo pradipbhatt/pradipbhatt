@@ -24,32 +24,37 @@ And+I+Am+A+Marvel+Fan;I+Love+Coding;I+Have+Passion+For+Web+Developing;" alt="Hea
 </div>
 
 <div align="right">
-    <img alt="coding" width="500px" src="./pradip.avif"
-         style="transition: transform 0.3s ease, box-shadow 0.3s ease;" 
-         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 20px rgba(0,0,0,0.5)';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
+    <img alt="coding" width="500px" src="https://wallpapercave.com/wp/wp8862099.jpg"/>
 </div>
 
 <div style="padding-bottom: 20px;"></div>
 
-### 💻 Current Focus and Skills
+# 💻 Current Focus and Skills
+<div style="background-color: #1a1a1a; color: #00ff00; padding: 20px; border-radius: 8px; font-family: monospace;">
 
-- 🔭 **Currently working on:** [**Connect-MinorCollege-Project**](#) — an innovative platform aimed at connecting students with minor colleges, enhancing accessibility and opportunities in education!
+<pre>
+$ echo "What are you currently working on?"
+🔭 I'm working on: Connect-MinorCollege-Project — A platform connecting students with minor colleges!
 
-- 🌱 **Proficient in:** a wide array of technologies including front-end frameworks like **React** and back-end solutions such as **Node.js**, **Express.js**, and **Python**.<br>
- I enjoy creating dynamic, user-friendly applications that deliver seamless experiences.
+$ echo "What skills do you have?"
+🌱 Skills: React, Node.js, Express.js, Python
 
-- 👨‍💻 **Explore my work:** All my projects are showcased at [www.pradipbhatt.com.np](http://www.pradipbhatt.com.np). Dive into my portfolio and see how I bring ideas to life!
+$ echo "What kind of projects do you create?"
+🛠️ I create user-friendly applications with seamless experiences.
 
-- 💬 **Let’s chat about:** anything related to **HTML**, **CSS**, **JavaScript**, **React**, **Linux**,**Node.js**,**Express.js** and **Python**!<br> I'm always eager to share knowledge and collaborate on exciting projects.
+$ echo "Where can I check out your portfolio?"
+👨‍💻 Explore: <a href="http://www.pradipbhatt.com.np" style="color: #00ff00;">pradipbhatt.com.np</a> - Check out my projects!
 
-- 📫 **Connect with me:** Feel free to reach out at [pradipbhatt.com.np](http://www.pradipbhatt.com.np). I’m always open to discussions, collaborations, and networking!
+$ echo "What topics do you enjoy discussing?"
+💬 Let’s chat: HTML, CSS, JS, Linux, and more!
 
-- ⚡ **Fun fact:** I love to keep it light-hearted—my motto is "Nothing" when it comes to serious fun! 😄😄😄 Let's embrace the joy in coding together!
+$ echo "How can I reach you?"
+📫 Reach out: <a href="http://www.pradipbhatt.com.np" style="color: #00ff00;">pradipbhatt.com.np</a>
 
+$ echo "What's a fun fact about you?"
+⚡ Fun Fact: 'Nothing' when it comes to serious fun! 😄
+</pre>
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 ### 🌟 Who Am I?
@@ -249,18 +254,51 @@ If you're interested in teaming up on a project or have an idea you'd like to di
     <em>📊 GitHub Activity of <strong>Pradip Bhatt</strong></em>
 </p>
 
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=pradipbhatt&show_icons=true&theme=radical" alt="Pradip Bhatt's GitHub Stats" />
 </p>
 <p align="center">
-    <em>📈 GitHub Statistics of <strong>Pradip Bhatt</strong></em>
+    <em>📈 <strong>GitHub Statistics</strong> of <strong>Pradip Bhatt</strong></em>
+</p>
+
+<hr style="border: 1px solid #4A90E2;"/>
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=pradipbhatt&theme=juicyfresh&column=3&margin-w=15&margin-h=15&no-frame=true&size=80" alt="Trophies" />
+</div>
+<p align="center">
+    <em>🏆 <strong>Achievements & Trophies</strong> of <strong>Pradip Bhatt</strong></em>
+</p>
+
+<hr style="border: 1px solid #4A90E2;"/>
+
+<p align="center">
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
+        <img src="https://readme-daily-quotes.vercel.app/api" alt="Daily Quote" />
+    </a>
+</p>
+<p align="center">
+    <em>✨ <strong>Daily Inspiration</strong> for <strong>Pradip Bhatt</strong></em>
+</p>
+
+<hr style="border: 1px solid #4A90E2;"/>
+
+<p align="center">
+    <em>✨ “The only limit to our realization of tomorrow will be our doubts of today.” – Franklin D. Roosevelt</em>
 </p>
 
 <p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pradipbhatt&theme=juicyfresh&column=3&margin-w=15&margin-h=15&no-frame=true&size=80)](https://github.com/ryo-ma/github-profile-trophy)
+    <strong>📫 Connect with Me:</strong>
+    <br />
+    <a href="https://github.com/pradipbhatt" target="_blank">GitHub</a> • 
+    <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">LinkedIn</a> • 
+    <a href="https://twitter.com/your-twitter-handle" target="_blank">Twitter</a>
 </p>
+
 <p align="center">
-    <em>🏆 Achievements and Trophies of <strong>Pradip Bhatt</strong></em>
+    <strong>📧 Email:</strong> <a href="mailto:bhattsammar04@gmail.com">bhattsammar04@gmail.com</a>
+</p>
+
+<p align="center">
+    <em>© 2024 Pradip Bhatt. All Rights Reserved.</em>
 </p>
