@@ -19,13 +19,13 @@
 <h3 align="center">A Passionate Web Developer From the Beautiful Country of Nepal.</h3>
 
 <div align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=+;I+Love+Listening+To+Music;I+Love+Football;
-And+I+Am+A+Marvel+Fan;I+Love+Coding;I+Have+Passion+For+Web+Developing;" alt="Headline"/> 
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Marvel+Fan;I+Love+Coding;I+Have+Passion+For+Web+Developing;" alt="Headline"/> 
 </div>
 
-<div align="right">
-    <img alt="coding" width="500px" src="https://wallpapercave.com/wp/wp8862099.jpg"/>
+<div align="center"> <!-- Changed from right to center -->
+    <img alt="coding" width="500px" src="./pradip.avif"/>
 </div>
+
 
 <div style="padding-bottom: 20px;"></div>
 
