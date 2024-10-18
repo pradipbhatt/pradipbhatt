@@ -1,5 +1,3 @@
-[![An image of @pradipbhatt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pradipbhatt)](https://holopin.io/@pradipbhatt)
-
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=pradipbhatt&label=Profile%20views&color=0e75b6&style=flat" alt="pradipbhatt"/> 
@@ -247,6 +245,10 @@ If you're interested in teaming up on a project or have an idea you'd like to di
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=pradipbhatt&theme=juicyfresh&column=3&margin-w=15&margin-h=15&no-frame=true&size=80" alt="Trophies" />
 </div>
+
+[![An image of @pradipbhatt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pradipbhatt)](https://holopin.io/@pradipbhatt)
+
+
 <p align="center">
     <em>🏆 <strong>Achievements & Trophies</strong> of <strong>Pradip Bhatt</strong></em>
 </p>
