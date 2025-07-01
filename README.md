@@ -1,286 +1,306 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=pradipbhatt&label=Profile%20views&color=0e75b6&style=flat" alt="pradipbhatt"/> 
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/pradipbhatt"/>
-    <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/pradipbhatt"/>
-</p>
+<!-- Animated Header Banner -->
+<div align="center">
+  <img src="https://i.imgur.com/A6bWGFl.gif" alt="animated banner" width="50%"/>
+</div>
+
+<!-- Profile Metrics - Modern Badge Layout -->
+<div align="center" style="margin: 15px 0;">
+  <img src="https://komarev.com/ghpvc/?username=pradipbhatt&label=PROFILE+VIEWS&color=0D8ABC&style=for-the-badge&labelColor=0D1117" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/pradipbhatt?logo=github&style=for-the-badge&color=1DA1F2&labelColor=0D1117" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/pradipbhatt?logo=github&style=for-the-badge&color=FFD700&labelColor=0D1117" alt="GitHub stars"/>
+</div>
+
+<!-- Section Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<!-- Main Title with Gradient Effect -->
+<h1 align="center" style="font-size: 2.5rem; margin: 0; background: linear-gradient(90deg, #4F46E5, #EC4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  नमस्ते (Namaste) 🙏🏻<br> I'm Pradip Bhatt <span style="font-size: 1.8rem;">👨‍💻</span>
+</h1>
+
+<!-- Subtitle with Animated Underline -->
+<h3 align="center" style="position: relative; display: inline-block; padding-bottom: 5px;">
+  Full Stack Developer @ Cloud Tech Services | Computer Engineering Student
+  <span style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); width: 60%; height: 3px; background: linear-gradient(90deg, transparent, #4F46E5, transparent);"></span>
+</h3>
+
+<!-- Typing Animation with Improved Styling -->
+<div align="center" style="margin: 20px 0; padding: 15px; background: rgba(16, 24, 39, 0.5); border-radius: 12px; max-width: 800px; margin-left: auto; margin-right: auto;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Building+scalable+web+solutions;Open+source+enthusiast;Cloud+technologies+specialist;Clean+code+advocate;Marvel+fan+%26+football+lover" alt="typing animation"/>
+</div>
+
+<!-- Section Divider with Animation -->
+<div align="center" style="height: 3px; background: linear-gradient(90deg, transparent, #4F46E5, #EC4899, transparent); margin: 25px 0; border-radius: 3px;"></div>
+
+##  Active Projects
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<h1 align="center">नमस्ते (Namaste) 🙏🏻<br> I am Pradip Bhatt 👨‍💻</h1>
-<h3 align="center">A Passionate Web Developer From the Beautiful Country of Nepal.</h3>
-
-<div align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Marvel+Fan;I+Love+Coding;I+Have+Passion+For+Web+Developing;" alt="Headline"/> 
-</div>
-
-<div align="center"> <!-- Changed from right to center -->
-    <img alt="coding" width="70%" src="./pradip.avif"/>
-</div>
-
-
-<div style="padding-bottom: 20px;"></div>
-
-# 💻 Current Focus and Skills
-<div style="background-color: #1a1a1a; color: #00ff00; padding: 20px; border-radius: 8px; font-family: monospace;">
-
-<pre>
-$ echo "What are you currently working on?"
-🔭 I'm working on: Connect-MinorCollege-Project — A platform connecting students with minor colleges!
-
-$ echo "What skills do you have?"
-🌱 Skills: React, Node.js, Express.js, Python
-
-$ echo "What kind of projects do you create?"
-🛠️ I create user-friendly applications with seamless experiences.
-
-$ echo "Where can I check out your portfolio?"
-👨‍💻 Explore: <a href="http://www.pradipbhatt.com.np" style="color: #00ff00;">pradipbhatt.com.np</a> - Check out my projects!
-
-$ echo "What topics do you enjoy discussing?"
-💬 Let’s chat: HTML, CSS, JS, Linux, and more!
-
-$ echo "How can I reach you?"
-📫 Reach out: <a href="http://www.pradipbhatt.com.np" style="color: #00ff00;">pradipbhatt.com.np</a>
-
-$ echo "What's a fun fact about you?"
-⚡ Fun Fact: 'Nothing' when it comes to serious fun! 😄
-</pre>
-
-</div>
-
-### 🌟 Who Am I?
-Hi, I'm **Pradip Bhatt**, a Computer Engineering student at **Far Western University** with a passion for coding and technology. As a tech leader, I’ve dived deep into:
-
-- **JavaScript** | **React** | **Node.js** | **Express**
-- **GSAP** | **Framer Motion** | **Tailwind** | **Vite**
-
-I've completed projects like a **Database Management System**, **Home Automation** with Arduino, and am building an **Online Platform** for mock tests.<br> I recently finished the **Vidhyalayaa app** for comparing nearby +2 schools.
-
-Currently, I serve as **President @ ICEC-FWU**.<br>
- Let's connect and create something amazing!
-
----
-
-### 💻 What Do I Do?
-
-I work as a **Back-End Web Developer**, and in my free time, I love watching movies and diving into new tech trends.
-
----
-
-### ⏰ When Do I Do That?
-
-I dedicate my free time to back-end web development projects and indulging in cinema. Whenever I find a moment between studies and other commitments, I immerse myself in coding projects and explore the latest films.
-
----
-
-### 📂 My Projects
-
-I mostly work on projects that are available on my [GitHub account](https://github.com/pradipbhatt?tab=repositories). You can check my repositories [here](https://github.com/pradipbhatt?tab=repositories).
-
----
-
-### 🤝 Want to Collaborate?
-
-If you're interested in teaming up on a project or have an idea you'd like to discuss, I'm all ears! Whether it's a coding challenge, a new venture, or just a friendly chat, I'm eager to connect. Drop me a line at [pradipbhatt.cse@fwu.edu.np](mailto:pradipbhatt.cse@fwu.edu.np), and let's create something amazing together!
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
----
-
-<h2 align="center">🔗 Connect With Me:</h2>
-<p align="center">
-    <a href="https://www.linkedin.com/in/pradipbhatt1326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradipbhatt" height="30" width="40"/></a>
-    <a href="https://fb.com/pradipbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradipbhatt" height="30" width="40"/></a>
-    <a href="https://instagram.com/pradipbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradipbhatt" height="30" width="40"/></a>
-    <a href="https://github.com/pradipbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pradipbhatt" height="30" width="40"/></a>
-</p>
-
----
-
-<h2 align="center">🛠️ My Favourite Tools and Technologies:</h2>
-
-<div align="center">
-    <table align="center">
+    <table>
         <tr>
-            <td align="center" width="80">
-                <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50"/>
-                <br>React
-            </td>
-            <td align="center" width="80">
-                <a href="#macropower-tech">
-                    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50"/>
+            <td width="33%" align="center">
+                <a href="https://soeintel.vercel.app/">
+                    <img src="https://i.ibb.co/KjprLhn4/Screenshot-2025-07-01-104135.png"/>
+                    <br><strong>SOE Intel</strong>
                 </a>
-                <br>Python
+                <p>School of Engineering analytics platform</p>
             </td>
-            <td align="center" width="80">
-                <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50"/>
-                <br>JavaScript
+            <td width="33%" align="center">
+                <a href="https://team-celestials.vercel.app/">
+                    <img src="https://i.postimg.cc/rpnsFgk9/image.png" width="90%"/>
+                    <br><strong>Team Celestials</strong>
+                </a>
+                <p>Developer team collaboration hub</p>
             </td>
-            <td align="center" width="80">
-                <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50"/>
-                <br>C++
-            </td>
-            <td align="center" width="80">
-                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50"/>
-                <br>MySQL
-            </td>
-            <td align="center" width="80">
-                <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50"/>
-                <br>TypeScript
+            <td width="33%" align="center">
+                <a href="https://soeconnect.vercel.app/">
+                    <img src="https://i.ibb.co/fz5X7F3L/Screenshot-2025-07-01-103937.png"/>
+                    <br><strong>SOE Connect</strong>
+                </a>
+                <p>Engineering student network</p>
             </td>
         </tr>
         <tr>
-            <td align="center" width="80">
-                <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50"/>
-                <br>GitHub
+            <td width="33%" align="center">
+                <a href="https://soenotes.vercel.app/">
+                    <img src="https://i.postimg.cc/Yqf6RK7D/Screenshot-2025-07-01-104335.png" width="90%"/>
+                    <br><strong>SOE Notes</strong>
+                </a>
+                <p>Educational resource sharing platform</p>
             </td>
-            <td align="center" width="80"> 
-                <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git"/>
-                <br>Git
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/>
-                <br>HTML
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/>
-                <br>CSS
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
-                <br>Tailwind
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS"/>
-                <br>NodeJS
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
-                <br>Vercel
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=render" width="48" height="48" alt="Render"/>
-                <br>Render
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=cloudinary" width="48" height="48" alt="Cloudinary"/>
-                <br>Cloudinary
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare"/>
-                <br>Cloudflare
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter Notebook"/>
-                <br>Jupyter
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
-                <br>Linux
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
-                <br>MongoDB
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
-                <br>Express
-            </td>
-            <td align="center" width="80">
-                <img src="https://skillicons.dev/icons?i=chakra" width="48" height="48" alt="Chakra UI"/>
-                <br>Chakra UI
+            <td width="33%" align="center">
+                <a href="https://pradipbhatt.com.np">
+                    <img src="https://i.postimg.cc/Vkw3Zbh9/Screenshot-2025-07-01-105042.png" width="90%"/>
+                    <br><strong>Portfolio</strong>
+                </a>
+                <p>Personal Portfolio Website</p>
             </td>
         </tr>
     </table>
 </div>
 
-### 🔝 Most Used Languages:
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pradipbhatt&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-    <em>📊 Top Languages Used by <strong>Pradip Bhatt</strong></em>
-</p>
+---
 
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradipbhatt&theme=radical" alt="Pradip Bhatt's Streak Stats" />
-</p>
-<p align="center">
-    <em>🔥 Current Streak of <strong>Pradip Bhatt</strong></em>
-</p>
+## 💻 Tech Stack & Daily Tools
 
-
-<p align="center">
-    <a href="https://github.com/pradipbhatt/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradipbhatt&theme=react-dark" alt="Pradip Bhatt's GitHub Activity Graph" />
-    </a>
-</p>
-<p align="center">
-    <em>📊 GitHub Activity of <strong>Pradip Bhatt</strong></em>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pradipbhatt&show_icons=true&theme=radical" alt="Pradip Bhatt's GitHub Stats" />
-</p>
-<p align="center">
-    <em>📈 <strong>GitHub Statistics</strong> of <strong>Pradip Bhatt</strong></em>
-</p>
-
-<hr style="border: 1px solid #4A90E2;"/>
-
+### 🛠️ Languages & Frameworks
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pradipbhatt&theme=juicyfresh&column=3&margin-w=15&margin-h=15&no-frame=true&size=80" alt="Trophies" />
+    <table>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+                <br>JavaScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+                <br>TypeScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+                <br>Python
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+                <br>C
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+                <br>C++
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+                <br>React
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
+                <br>Vue
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+                <br>Node.js
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+                <br>Express
+            </td>
+           <td align="center" width="96">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" />
+    <br>Laravel
+</td>
+        </tr>
+    </table>
 </div>
 
-[![An image of @pradipbhatt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pradipbhatt)](https://holopin.io/@pradipbhatt)
+### 🗃️ Databases & Cloud
+<div align="center">
+    <table>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+                <br>MongoDB
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+                <br>MySQL
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+                <br>Redis
+            </td>
+            <td align="center" width="96">
+                <img src="https://www.svgrepo.com/show/373458/aws.svg" alt="AWS" />
+                <br>AWS
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+                <br>Docker
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
+                <br>Nginx
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
+                <br>Vercel
+            </td>
+            <td align="center" width="96">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ApzUI8zVqA3YzSxahxUB1cPvS1ASMLfBFQ&s" width="48" height="48" alt="Render" />
+                <br>Render
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+                <br>Firebase
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="48" height="48" alt="Heroku" />
+                <br>Heroku
+            </td>
+        </tr>
+    </table>
+</div>
 
-<p align="center">
-    <em>🏆 <strong>Achievements & Trophies</strong> of <strong>Pradip Bhatt</strong></em>
-</p>
+### 🎨 Frontend & Styling
+<div align="center">
+    <table>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" />
+                <br>Tailwind
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+                <br>CSS3
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+                <br>HTML5
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+                <br>Sass
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+                <br>Bootstrap
+            </td>
+        </tr>
+    </table>
+</div>
 
-<hr style="border: 1px solid #4A90E2;"/>
+### 🔧 Tools & Platforms
+<div align="center">
+    <table>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+                <br>Git
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+                <br>GitHub
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+                <br>VS Code
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+                <br>Linux
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+                <br>Figma
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
+                <br>Postman
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" />
+                <br>npm
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="48" height="48" alt="Yarn" />
+                <br>Yarn
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+                <br>Jira
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48" height="48" alt="Slack" />
+                <br>Slack
+            </td>
+        </tr>
+    </table>
+</div>
 
-<p align="center">
-    <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
-        <img src="https://readme-daily-quotes.vercel.app/api" alt="Daily Quote" />
-    </a>
-</p>
-<p align="center">
-    <em>✨ <strong>Daily Inspiration</strong> for <strong>Pradip Bhatt</strong></em>
-</p>
 
-<hr style="border: 1px solid #4A90E2;"/>
 
-<p align="center">
-    <em>✨ “The only limit to our realization of tomorrow will be our doubts of today.” – Franklin D. Roosevelt</em>
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-    <strong>📫 Connect with Me:</strong>
-    <br />
-    <a href="https://github.com/pradipbhatt" target="_blank">GitHub</a> • 
-    <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">LinkedIn</a> • 
-    <a href="https://twitter.com/your-twitter-handle" target="_blank">Twitter</a>
-</p>
+### 🎯 Development Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pradipbhatt&theme=react-dark&hide_border=true&area=true&custom_title=My%20Development%20Activity&bg_color=ffffff&color=333333&line=6e48aa&point=9d50bb)
 
-<p align="center">
-    <strong>📧 Email:</strong> <a href="mailto:bhattsammar04@gmail.com">bhattsammar04@gmail.com</a>
-</p>
+### 📈 GitHub Stats
+| GitHub Stats | Top Languages |
+|-------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradipbhatt&show_icons=true&theme=radical&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=6e48aa&text_color=333333&icon_color=9d50bb) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradipbhatt&layout=compact&theme=radical&hide=html,css&bg_color=ffffff&title_color=6e48aa&text_color=333333) |
 
-<p align="center">
-    <em>© 2024 Pradip Bhatt. All Rights Reserved.</em>
-</p>
+---
+
+## 🏆 Achievements
+
+### GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pradipbhatt&theme=juicyfresh&column=4&margin-w=15&margin-h=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
+
+### 🎖️ Holopin Badges
+[![Holopin Badges](https://holopin.me/pradipbhatt)](https://holopin.io/@pradipbhatt)
+
+---
+
+## 💡 Daily Inspiration
+
+> ✨ "The only limit to our realization of tomorrow will be our doubts of today."  
+> — Franklin D. Roosevelt
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradipbhatt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhattsammar04@gmail.com)
+
+---
+
+© 2024 Pradip Bhatt | Crafted with ❤️ using GitHub Markdown
