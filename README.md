@@ -41,7 +41,7 @@
         <tr>
             <td width="33%" align="center">
                 <a href="https://soeintel.vercel.app/">
-                    <img src="https://i.ibb.co/RksWCsHv/image.png"/>
+                    <img src="https://i.ibb.co/X0SdbSP/image.png"/>
                     <br><strong>SOE Intel</strong>
                 </a>
                 <p>School of Engineering analytics platform</p>
