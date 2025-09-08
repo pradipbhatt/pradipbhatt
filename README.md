@@ -22,7 +22,7 @@
 
 <!-- Subtitle with Animated Underline -->
 <h3 align="center" style="position: relative; display: inline-block; padding-bottom: 5px;">
-  Full Stack Developer @ Hypeerce | Computer Engineering Student
+  Full Stack Developer @ Hyperce | Computer Engineering Student
   <span style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); width: 60%; height: 3px; background: linear-gradient(90deg, transparent, #4F46E5, transparent);"></span>
 </h3>
 
