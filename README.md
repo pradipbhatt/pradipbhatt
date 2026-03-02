@@ -12,65 +12,8 @@
 
 <br/>
 
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00f5d4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pradip+Bhatt;Full+Stack+Developer+%40+Hyperce;Building+Scalable+Web+Solutions;Open+Source+Enthusiast;Cloud+Technologies+Specialist;Clean+Code+%7C+Clean+Architecture+Advocate;Let's+Connect+and+Build+Together" alt="Typing SVG"/>
 </div>
-
----
-
-## <svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'><path d='M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z'></path><circle cx='12' cy='12' r='3'></circle></svg> Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradipbhatt/pradipbhatt/output/dist/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pradipbhatt/pradipbhatt/output/dist/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/pradipbhatt/pradipbhatt/output/dist/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
-</div>
-
-<details>
-<summary>⚙️ Setup: Click to copy the GitHub Action workflow</summary>
-
-Create this file in your repo: `.github/workflows/snake.yml` 
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After saving the file → go to **Actions tab → Generate Snake Animation → Run workflow** ✅
-
-</details>
 
 ---
 
