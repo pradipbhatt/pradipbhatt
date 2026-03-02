@@ -1,0 +1,22 @@
+name: Generate Snake
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Generate snake
+      run: |
+        curl -o snake.svg https://raw.githubusercontent.com/pradipbhatt/pradipbhatt/output/github-contribution-grid-snake.svg || echo "Snake not found"
+        mkdir -p dist
+        cp snake.svg dist/ 2>/dev/null || echo '<svg><text x="10" y="20">Snake coming soon!</text></svg>' > dist/snake.svg
+    - name: Upload artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: snake
+        path: dist/
